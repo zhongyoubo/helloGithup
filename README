@@ -4,3 +4,8 @@ this is a test project form AndroidStudio.
 1.建立AndroidStudio helloGithup工程
 2.VCS->Import into Version Control->Share Project on GitHub
 3.打开github网站地址，在repositories中会看到刚刚提交过的工程名称
+
+Creat a new Branch:
+1.创建新分支New_Branch：
+    VCS->Git->Branch->+New Branch
+2.在New_Branch分支上提交修改
