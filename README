@@ -1,0 +1,6 @@
+2018-08-27
+this is a test project form AndroidStudio.
+第一次上传代码到githup仓库，操作步骤如下：
+1.建立AndroidStudio helloWoord工程
+2.VCS->Import into Version Control->Share Project on GitHub
+3.打开github网站地址，在repositories中会看到刚刚提交过的工程名称
